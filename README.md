@@ -1,0 +1,5 @@
+- 👋 Olá, meu Nome é Vinicius Silva Moraes
+- 👀 Estudante de Ciência da Computação- FIT(Faculdade Impacta Tecnologia)
+- 🌱 Atualmente estou procurando uma vaga de estágio
+- 💞️ Aqui vc vai encontrar um pouco do meu conhecimento em programação!
+- 📫 Espero que goste dos meus códigos ou eles te ajudem de alguma forma!
